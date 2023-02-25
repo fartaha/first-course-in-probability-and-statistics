@@ -30,3 +30,6 @@ Email: firstname.lastname@aalto.fi
 ## 1- Getting familiar with Law of Large Numbers (LLN)
 + Probability: A stochastic/random process that is able to somehow randomly generate numbers (This is the business of probability). 
 + Statistics: Now, if we have seen these numbers (data that is observed or measured or sth) from a random process, then, what can you say about the process that generated that data (This is the business of statistics). 
+<p align="center">
+  <img src="imgs/p1.png" width="350" title="randomProcess">
+</p>
